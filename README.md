@@ -12,7 +12,7 @@ This repository contains a simple **master recon automation** binary written in 
 3. **Run the binary**:
 
 ```bash
-./best-recon
+./best-recon <target>
 ```
 
 That’s it — once executed, the script will perform recon on the target and give amazing results.
